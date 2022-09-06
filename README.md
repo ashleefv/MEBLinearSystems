@@ -5,7 +5,5 @@ This repository is designed for use in CE 212: Fundamental Principles of Chemica
 
 The course textbook is the Material and Energy Balances zyBook by Matthew Liberatore available from https://www.zybooks.com/catalog/material-and-energy-balances/.
 
-The material developed here supplements the section in the zyBook titled Systems of linear equations, specifically as a MATLAB Live Script-based alternative to the subsection titled "Solving systems of linear equations in a a spreadsheet."
-
-Our youtube video: [Solving Systems of Linear Equations Using a MATLAB Live Script](https://youtu.be/78n8XaCBt9w)
+The material developed here supplements the section in the zyBook titled Systems of linear equations, specifically as a MATLAB Live Script-based alternative to the subsection titled "Solving systems of linear equations in a a spreadsheet." This main file is [Systems_of_Linear_Equations.mlx](https://github.com/ashleefv/MEBLinearSystems/blob/master/Systems_of_Linear_Equations.mlx), with a corresponding solution to the worked example available in [Systems_of_Linear_Equations_sol.mlx](https://github.com/ashleefv/MEBLinearSystems/blob/master/Systems_of_Linear_Equations_sol.mlx). We also have created an explanatory youtube video: [Solving Systems of Linear Equations Using a MATLAB Live Script](https://youtu.be/78n8XaCBt9w)
 
