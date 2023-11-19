@@ -12,3 +12,5 @@ The file [Lecture_With_Examples.mlx](https://github.com/ashleefv/MEBLinearSystem
 1. M. W. Liberatore, Material and Energy Balances ZyBook. Electronic, interactive textbook: ZyBooks, 2019.
 2. R. M. Felder, R. W. Rousseau, and L. G. Bullard, Elementary Principles of Chemical Processes, 4th ed. Hoboken, NJ: John Wiley & Sons, 2016.
 3. R. M. Murphy, Introduction to Chemical Processes: Principles, Analysis, Synthesis, 2nd ed. New York, NY: McGraw Hill, 2023.
+
+Note: the associated .pdf files for [Systems_of_Linear_Equations_sol.pdf](https://github.com/ashleefv/MEBLinearSystems/blob/master/Systems_of_Linear_Equations_sol.pdf) and [Lecture_With_Examples.pdf](https://github.com/ashleefv/MEBLinearSystems/blob/master/Lecture_With_Examples.pdf) are for viewing on GitHub or static sharing. The .mlx files can be interactively edited via MATLAB.
