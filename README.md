@@ -1,5 +1,7 @@
 # MEBLinearSystems
 Includes instructions and examples of solving systems of linear equations with computing software.
+[![DOI](https://zenodo.org/badge/532073890.svg)](https://zenodo.org/doi/10.5281/zenodo.7509995)
+
 
 This repository is designed for use in Material and Energy Balances courses. The content was tested in CE 212: Fundamental Principles of Chemical Engineering at the University at Buffalo, The State University of New York. Instructor: Dr. Ashlee N. Ford Versypt @ashleefv. Content provided here was developed by Dr. Ford Versypt and Austin N. Johns @austin-johns.
 
