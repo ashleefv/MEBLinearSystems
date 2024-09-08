@@ -2,6 +2,7 @@
 Includes instructions and examples of solving systems of linear equations with computing software.
 [![DOI](https://zenodo.org/badge/532073890.svg)](https://zenodo.org/doi/10.5281/zenodo.7509995)
 
+Related conference paper describing these materials: [A. N. Ford Versypt#, C. V. Cook, and A. N. Johns, “Interactive Coding Templates for Courses and Undergraduate Research Using MATLAB Live Scripts,” Proceedings of the 34th European Symposium on Computer Aided Process Engineering and 24th International Symposium on Process Systems Engineering (ESCAPE34-PSE24), Florence, Italy, 3499–3504, 2024. DOI: 10.1016/B978-0-443-28824-1.50584-6.](https://www.sciencedirect.com/science/article/abs/pii/B9780443288241505846)
 
 This repository is designed for use in Material and Energy Balances courses. The content was tested in CE 212: Fundamental Principles of Chemical Engineering at the University at Buffalo, The State University of New York. Instructor: Dr. Ashlee N. Ford Versypt @ashleefv. Content provided here was developed by Dr. Ford Versypt and Austin N. Johns @austin-johns.
 
